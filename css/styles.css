@@ -77,10 +77,10 @@ body {
   }
   #particles canvas {
     position: absolute;
-    z-index: 996;
+    z-index: -1;
   }
   #particles section {
-    z-index: 999;
+    z-index: 1;
   }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
