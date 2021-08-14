@@ -10,7 +10,7 @@ export const Footer = () => {
     >
       <ul className="flex flex-col text-center sm:flex-row hidden md:block">
         <li>
-          <p className="mr-2.5 lg:mr-10">Philippe Tedajo</p>
+          <p className="mr-2.5 lg:mr-10">Urjeet Deshmukh</p>
         </li>
       </ul>
       <ul className="flex text-center ">
