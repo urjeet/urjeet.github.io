@@ -1,14 +1,32 @@
 window.onload = function () {
   const favicon = document.getElementById("favicon");
   let pageTitle = document.title;
+  let attentionMessage = "Urjeet Deshmukh";
 
   document.addEventListener("visibilitychange", function (e) {
-    document.title = pageTitle;
-    favicon.href = "./assets/images/dp_male.svg";
+    let isPageActive = !document.hidden;
+
+    if (!isPageActive) {
+      toggle();
+    } else {
+      document.title = pageTitle;
+    }
   });
 
   document.addEventListener("visibilitychange", function (e) {
-    document.title = pageTitle;
-    favicon.href = "./assets/images/dp_male.svg";
-  }); 
+    if (!document.hidden) {
+      document.title = pageTitle;
+      favicon.href = "./assets/images/dp_male.svg";
+    }
+  });
+
+  function toggle() {
+    if (document.title === attentionMessage) {
+        document.title = pageTitle;
+        favicon.href = "./assets/images/dp_male.svg";
+    } else {
+        document.title = attentionMessage;
+        favicon.href = "./assets/images/folded.png";
+    }
+  }   
 };
