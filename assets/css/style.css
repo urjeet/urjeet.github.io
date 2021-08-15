@@ -498,11 +498,11 @@ color: #ffffff !important;
 
 /* Also have a look at the scroll to top button if changing footer's height (below upArrow in app.js) */
 
-.footer {
+/*.footer {
     padding-top: 10px;
     font-family: "Poppins", sans-serif;
     background-color: #121212;
-}
+}*/
 
 .tag {
     font-family: "Poppins", sans-serif;
