@@ -31,9 +31,9 @@ body {
     transition: transform 0.6s 0.7s, width 0.7s, opacity 0.6s 0.7s, z-index 0s 1.3s;
     will-change: transform, width, opacity;
 }
-.el:not(.s--active) {
+/*.el:not(.s--active) {
     cursor: pointer;
-}
+}*/
 .el__overflow {
     overflow: hidden;
     position: relative;
@@ -148,7 +148,7 @@ body {
     opacity: 0;
     pointer-events: none;
     transition: all 0s 0.45s;
-    cursor: pointer;
+    /*cursor: pointer;*/
 }
 .el.s--active .el__close-btn {
     z-index: 5;
