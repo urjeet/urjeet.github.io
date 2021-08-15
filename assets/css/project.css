@@ -45,7 +45,7 @@ body {
     background: 0;
     border: 0;
     box-sizing: border-box;
-    cursor: pointer;
+    /*cursor: pointer;*/
     height: 40px;
     width: 100px;
     position: relative;
@@ -141,9 +141,9 @@ a:hover {
     width: 100%;
 }
 
-.card {
+/*.card {
     cursor: pointer;
-}
+}*/
 
 .column {
     float: left;
