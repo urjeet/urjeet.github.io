@@ -391,7 +391,7 @@ body {
   text-transform: uppercase;
   padding: 0.3em 1.3em;
   display: inline-block;
-  cursor: pointer;
+  /*cursor: pointer;*/
   margin-top: 1em;
 }
 
