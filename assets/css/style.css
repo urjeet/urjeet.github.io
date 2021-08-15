@@ -99,9 +99,8 @@ html{
 }
 
 body {
-    height: 100vh;
+    height: 100%;
     margin: 0;
-    border: 1px solid transparent;
     overflow-x: hidden;
     color: var(--text);
     font-family: "Poppins", sans-serif;
