@@ -101,6 +101,7 @@ html{
 body {
     height: 100vh;
     margin: 0;
+    padding-bottom: 20px;
     overflow-x: hidden;
     color: var(--text);
     font-family: "Poppins", sans-serif;
