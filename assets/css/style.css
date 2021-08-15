@@ -183,7 +183,7 @@ html {
     width: 2.5em;
     height: 2em;
     font-size: 11px;
-    cursor: pointer;
+    /*cursor: pointer;*/
     position: relative;
 }
 
@@ -243,7 +243,7 @@ html {
 .dark_toggler {
     -webkit-appearance: none;
     position: relative;
-    cursor: pointer;
+    /*cursor: pointer;*/
     width: 100px;
     height: 40px;
     background-image: url(https://i.postimg.cc/857jHw2q/Screenshot-2020-04-16-at-1-07-06-PM.png);
@@ -440,7 +440,7 @@ color: #ffffff !important;
     align-items: center;
     width: 60px;
     height: 60px;
-    cursor: pointer;
+    /*cursor: pointer;*/
     transition: all .2s ease-in-out;
     border-color: white;
     border: none;
@@ -522,7 +522,7 @@ color: #ffffff !important;
 
 .rounded-social-buttons .social-button {
     display: inline-block;
-    cursor: pointer;
+    /*cursor: pointer;*/
     width: 3.125rem;
     height: 3.125rem;
     border: 0.125rem solid transparent;
