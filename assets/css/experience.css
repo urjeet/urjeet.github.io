@@ -468,7 +468,7 @@ ul ol {
 }
 
 /*Hackathon Section Starts*/
-/*
+
 .blog-slider {
   width: 95%;
   position: relative;
@@ -625,20 +625,20 @@ ul ol {
   transform: translateY(25px);
   transition: all 0.4s;
 }
-*/
+
 
 /*Hackathon Name */
-/*
+
 .blog-slider__title {
   font-size: 24px;
   font-weight: 900;
   color: var(--head-col);
   margin-bottom: 20px;
 }
-*/
+
 
 /* Role in Hackathon   */
-/*
+
 .blog-slider__code {
   color: var(--meta-col);
   margin-bottom: 20px;
@@ -646,10 +646,10 @@ ul ol {
   font-size: 17px;
   font-weight: 700;
 }
-*/
+
 
 /* Hackathon Description   */
-/*
+
 .blog-slider__text {
   color: (var(--head-col));
   margin-bottom: 30px;
@@ -686,7 +686,7 @@ a:link {
     margin-bottom: 12rem !important;
   }
 }
-*/
+
 
 /*Hackathon Section Ends*/
 
