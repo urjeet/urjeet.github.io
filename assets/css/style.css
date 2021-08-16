@@ -498,14 +498,11 @@ color: #ffffff !important;
 
 /* Also have a look at the scroll to top button if changing footer's height (below upArrow in app.js) */
 
-/*.footer {
+/*
+.footer {
     padding-top: 10px;
     font-family: "Poppins", sans-serif;
     background-color: #121212;
-}*/
-
-.footer content p {
-    margin-bottom: 0;
 }
 
 .tag {
@@ -526,7 +523,7 @@ color: #ffffff !important;
 
 .rounded-social-buttons .social-button {
     display: inline-block;
-    /*cursor: pointer;*/
+    cursor: pointer;
     width: 3.125rem;
     height: 3.125rem;
     border: 0.125rem solid transparent;
@@ -541,17 +538,17 @@ color: #ffffff !important;
     transition: all 0.5s ease;
     margin-right: 0.25rem;
     margin-bottom: 0.25rem;
-}
+} */
 
 
 /********
 Rotate Transition in foote Soical Icon
 *********/
 
-.rounded-social-buttons .social-button:hover,
+/*.rounded-social-buttons .social-button:hover,
 .rounded-social-buttons .social-button:focus {
     transition: background-color 0.3s, var(--trans-props);
-}
+}*/
 
 
 /*
