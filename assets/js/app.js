@@ -101,7 +101,7 @@ let header = $(`
 </nav>`);
 
 // Footer
-
+/*
 let footer = $(`
 <footer class="footer sticky-bottom"  style="background-color:#2b2a2a;">
   <div class="p-4">
@@ -245,6 +245,7 @@ let footer = $(`
     </div>
 </footer>
 `);
+*/
 
 //"Scroll to top" button
 let upArrow = $(`
