@@ -102,7 +102,7 @@ let header = $(`
 
 // Footer
 
-/*let footer = $(`
+let footer = $(`
 <footer class="footer sticky-bottom"  style="background-color:#2b2a2a;">
   <div class="p-4">
     <div class="container-fluid quote-container">
@@ -244,7 +244,7 @@ let header = $(`
     </div>
     </div>
 </footer>
-`);*/
+`);
 
 //"Scroll to top" button
 let upArrow = $(`
