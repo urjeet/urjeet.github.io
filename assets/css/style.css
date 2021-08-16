@@ -504,6 +504,10 @@ color: #ffffff !important;
     background-color: #121212;
 }*/
 
+.footer content p {
+    margin-bottom: 0;
+}
+
 .tag {
     font-family: "Poppins", sans-serif;
     font: size 20px;
