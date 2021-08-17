@@ -64,10 +64,10 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "Editor/Podcaster/nThe Helyx Initiative",
-    cardImage: "assets/images/experience-page/pittreslife.png",
+    title: "Editor/Podcaster\nThe Helyx Initiative",
+    cardImage: "assets/images/experience-page/helyx.png",
     description:
-      "I complete administrative tasks such as maintenance requests and incident reports. I also plan programs that bolster learning and maturity in the community.",
+      "I serve as an editor for blogs on topics of Computational Biology and supplementally speak for the organization's podcast which is hosted on Spotify.",
   },
   {
     title: "Resident Assistant",
