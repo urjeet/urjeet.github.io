@@ -10,21 +10,21 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "University of Pittsburgh School of Medicine",
     time: "(May 2021 - July 2021)",
-    desp: "Funded by the National Science Foundation, I worked with Dr. Ian Sigal and Ph.D. student Po-Yi Lee at their Ocular Biomechanics Lab to develop a virtual reality platform for visualization and simulation of ocular structures. The virtual reality software was implemented using the Unity game engine and included high-level features that focused on understanding the hemodynamic properties of the Lamina Cribrosa Vasculature. The research motives were to better grasp the causes of glaucoma.",
+    desp: "<li>Funded by the National Science Foundation, I worked with Dr. Ian Sigal and Ph.D. student Po-Yi Lee at their Ocular Biomechanics Lab to develop a virtual reality platform for visualization and simulation of ocular structures.</li><li>The virtual reality software was implemented using the Unity game engine and included high-level features that focused on understanding the hemodynamic properties of the Lamina Cribrosa Vasculature. The research motives were to better grasp the causes of glaucoma.</li>",
   },
   {
     title: "Research Assistant",
     cardImage: "assets/images/experience-page/gsoc.png",
     place: "LIFE Lab",
     time: "(August 2020 - Present)",
-    desp: "Under Dr. Jamie Hanson, I performed quality assurance on the codebase of online experiments using PsychoPy, PsychoJS, and jsPsych. Currently, I am implementing Deep Neural Networks using PyTorch, TensorFlow, and Keras to predict “brain age” through MRI data.",
+    desp: "<li>Under Dr. Jamie Hanson, I performed quality assurance on the codebase of online experiments using PsychoPy, PsychoJS, and jsPsych.</li><li>Currently, I am implementing Deep Neural Networks using PyTorch, TensorFlow, and Keras to predict “brain age” through MRI data.</li>",
   },
   {
     title: "Software Engineering Virtual Experience",
     cardImage: "assets/images/experience-page/jpmorgan.png",
     place: "JPMorgan & Chase Co.",
     time: "(May 2020 - June 2020)",
-    desp: "With this virtual experience, I solved hypothetical scenarios. I first learned how to set up my system by downloading necessary repositories and dependencies through Git commands. Next, I fixed a client datafeed script through Python to interface stock price data feed. Then, I used JPMorgan Chase frameworks to deal with typescript files in the repository that were displaying the web application output incorrectly. Finally, I displayed the data visually to traders using JPMorgan Chase's Perspective. Currently, I am working on contributing to the open source project of Perspective.",
+    desp: "<li>Learned how to set up my system by downloading necessary repositories and dependencies through Git commands.</li><li>Fixed a client datafeed script through Python to interface stock price data feed.</li><li>Used JPMorgan Chase frameworks to deal with typescript files in the repository that were displaying the web application output incorrectly.</li><li>Displayed the data visually to traders using JPMorgan Chase's Perspective.</li><li>Currently, I am working on contributing to the open source project of Perspective.</li>",
   },
 ];
 
