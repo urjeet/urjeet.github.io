@@ -6,25 +6,26 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
+    title: "NSF REU - Computational Biology Research Intern",
     cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    place: "University of Pittsburgh School of Medicine",
+    time: "(May 2021 - July 2021)",
+    desp: "Funded by the National Science Foundation, I worked with Dr. Ian Sigal and Ph.D. student Po-Yi Lee at their Ocular Biomechanics Lab to develop a virtual reality platform for visualization and 
+simulation of ocular structures. The virtual reality software was implemented using the Unity game engine and included high-level features that focused on understanding the hemodynamic properties of the Lamina Cribrosa Vasculature. The research motives were to better grasp the causes of glaucoma.",
   },
   {
-    title: "Student Developer",
+    title: "Research Assistant",
     cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    place: "LIFE Lab",
+    time: "(August 2020 - Present)",
+    desp: "Under Dr. Jamie Hanson, I performed quality assurance on the codebase of online experiments using PsychoPy, PsychoJS, and jsPsych. Currently, I am implementing Deep Neural Networks using PyTorch, TensorFlow, and Keras to predict “brain age” through MRI data.",
   },
   {
     title: "Software Engineering Virtual Experience",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp:"<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    cardImage: "assets/images/experience-page/jpmorgan.png",
+    place: "JPMorgan & Chase Co.",
+    time: "(May 2020 - June 2020)",
+    desp: "With this virtual experience, I solved hypothetical scenarios. I first learned how to set up my system by downloading necessary repositories and dependencies through Git commands. Next, I fixed a client datafeed script through Python to interface stock price data feed. Then, I used JPMorgan Chase frameworks to deal with typescript files in the repository that were displaying the web application output incorrectly. Finally, I displayed the data visually to traders using JPMorgan Chase's Perspective. Currently, I am working on contributing to the open source project of Perspective.",
   },
 ];
 
