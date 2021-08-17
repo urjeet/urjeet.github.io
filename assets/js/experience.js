@@ -76,14 +76,14 @@ const volunteershipcards = [
       "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
   },
   {
-    title: "PClub Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/3.jpg",
+    title: "Vice Chair of Academic Affairs\nStudent Government",
+    cardImage: "assets/images/experience-page/sgb.png",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "I represented the University of Pittsbugh School of Computing and Information and its student population. I advocated for an improved quality of education and established a robust foundation for an extensive system of resources.",
   },
   {
     title: "Educator\nNumerade",
-    cardImage: "assets/images/experience-page/4.jpg",
+    cardImage: "assets/images/experience-page/numerade.png",
     description:
       "As a freelancer, I made short videos explaining mathematical problems and how to solve them. The subjects ranged from Algebra to Calculus II.",
   },
