@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "Resident Assistant",
+    title: "Resident/Community Assistant",
     cardImage: "assets/images/experience-page/pittreslife.png",
     description:
       "I complete administrative tasks such as maintenance requests and incident reports. I also plan programs that bolster learning and maturity in the community.",
