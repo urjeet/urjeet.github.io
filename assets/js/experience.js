@@ -21,7 +21,7 @@ const exp = [
   },
   {
     title: "Software Engineering Virtual Experience",
-    cardImage: "assets/images/experience-page/jpmorgan.png",
+    cardImage: "assets/images/experience-page/jpmorgan.jpg",
     place: "JPMorgan & Chase Co.",
     time: "(May 2020 - June 2020)",
     desp: "<li>Learned how to set up my system by downloading necessary repositories and dependencies through Git commands.</li><li>Fixed a client datafeed script through Python to interface stock price data feed.</li><li>Used JPMorgan Chase frameworks to deal with typescript files in the repository that were displaying the web application output incorrectly.</li><li>Displayed the data visually to traders using JPMorgan Chase's Perspective.</li><li>Currently, I am working on contributing to the open source project of Perspective.</li>",
