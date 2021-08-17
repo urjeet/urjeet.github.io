@@ -64,10 +64,10 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+    title: "Social and Outreach Chair",
+    cardImage: "assets/images/experience-page/pittsasa.jpg",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "I represent the South Asian Student Association by planning large-scale events that strengthen ties within and among other organizations on campus.",
   },
   {
     title: "Pitt Computer Science Club Member",
