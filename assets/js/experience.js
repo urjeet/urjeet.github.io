@@ -70,7 +70,7 @@ const volunteershipcards = [
       "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
   },
   {
-    title: "Member\nPitt Computer Science Club",
+    title: "Member\n\nPitt Computer Science Club",
     cardImage: "assets/images/experience-page/pittcsc.png",
     description:
       "I am part of a community of computer science enthusiasts who work to better each other.",
