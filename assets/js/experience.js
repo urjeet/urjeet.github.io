@@ -10,8 +10,7 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "University of Pittsburgh School of Medicine",
     time: "(May 2021 - July 2021)",
-    desp: "Funded by the National Science Foundation, I worked with Dr. Ian Sigal and Ph.D. student Po-Yi Lee at their Ocular Biomechanics Lab to develop a virtual reality platform for visualization and 
-simulation of ocular structures. The virtual reality software was implemented using the Unity game engine and included high-level features that focused on understanding the hemodynamic properties of the Lamina Cribrosa Vasculature. The research motives were to better grasp the causes of glaucoma.",
+    desp: "Funded by the National Science Foundation, I worked with Dr. Ian Sigal and Ph.D. student Po-Yi Lee at their Ocular Biomechanics Lab to develop a virtual reality platform for visualization and simulation of ocular structures. The virtual reality software was implemented using the Unity game engine and included high-level features that focused on understanding the hemodynamic properties of the Lamina Cribrosa Vasculature. The research motives were to better grasp the causes of glaucoma.",
   },
   {
     title: "Research Assistant",
