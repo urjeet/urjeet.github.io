@@ -82,10 +82,10 @@ const volunteershipcards = [
       "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
   },
   {
-    title: "Hakin-Codes",
+    title: "Educator\nNumerade",
     cardImage: "assets/images/experience-page/4.jpg",
     description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+      "As a freelancer, I made short videos explaining mathematical problems and how to solve them. The subjects ranged from Algebra to Calculus II.",
   },
 ];
 
