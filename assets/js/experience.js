@@ -70,10 +70,10 @@ const volunteershipcards = [
       "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
   },
   {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    title: "Member\nPitt Computer Science Club",
+    cardImage: "assets/images/experience-page/pittcsc.png",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "I am part of a community of computer science enthusiasts who work to better each other.",
   },
   {
     title: "Vice Chair of Academic Affairs",
