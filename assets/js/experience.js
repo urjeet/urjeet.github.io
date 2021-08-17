@@ -76,7 +76,7 @@ const volunteershipcards = [
       "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
   },
   {
-    title: "Vice Chair of Academic Affairs\nStudent Government",
+    title: "Vice Chair of Academic Affairs",
     cardImage: "assets/images/experience-page/sgb.png",
     description:
       "I represented the School of Computing and Information by establishing a robust foundation for an extensive system of resources.",
