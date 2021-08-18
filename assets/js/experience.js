@@ -22,9 +22,16 @@ const exp = [
   {
     title: "Resident Assistant",
     cardImage: "assets/images/experience-page/holland.jpg",
-    place: "LIFE Lab",
+    place: "University of Pittsbugh Holland Hall",
     time: "(July 2020 - May 2021)",
     desp: "<li>This role required a comprehensive vetting process and proper training.</li><li>I collaborated with 17 other RAs to build a community that bolsters learning and maturity for about 290 residents.</li><li>This was reflected through programming, administrative tasks, and directly securing the well-being of residents.</li>",
+  },
+  {
+    title: "Educator",
+    cardImage: "assets/images/experience-page/numerade.png",
+    place: "Numerade",
+    time: "(June 2020 - February 2021)",
+    desp: "<li>As a freelancer, I made about 300 short videos explaining textbook mathematical problems and how to solve them.</li><li>The subjects ranged from Algebra to Calculus II, covering topics like exponential and logarithmic functions, graphing, conic sections, polar coordinates, applications of integration, and more.</li>",
   },
   {
     title: "Software Engineering Virtual Experience",
@@ -93,12 +100,6 @@ const volunteershipcards = [
     cardImage: "assets/images/experience-page/sgb.png",
     description:
       "I represented the School of Computing and Information by establishing a robust foundation for an extensive system of resources.",
-  },
-  {
-    title: "Educator\nNumerade",
-    cardImage: "assets/images/experience-page/numerade.png",
-    description:
-      "As a freelancer, I made short videos explaining mathematical problems and how to solve them. The subjects ranged from Algebra to Calculus II.",
   },
 ];
 
