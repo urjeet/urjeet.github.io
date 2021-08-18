@@ -6,22 +6,22 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "Google Analytics",
-    cardImage: "assets/images/education-page/google.png",
+    cardImage: "assets/images/education-page/google.jpg",
     moocLink: "https://drive.google.com/file/d/1wlbyF_IE-vMN9wY8HZo9xCnsHScsKRpt/view",
   },
   {
     title: "Bloomberg Market Concepts",
-    cardImage: "assets/images/education-page/bloomberg.png",
+    cardImage: "assets/images/education-page/bloomberg.jpg",
     moocLink: "https://drive.google.com/file/d/1We3V6YH_HFS7vgfX5PaETmmW0eHbIZHD/view",
   },
   {
     title: "Android Enterprise Professional",
-    cardImage: "assets/images/education-page/google.png",
+    cardImage: "assets/images/education-page/google.jpg",
     moocLink: "https://drive.google.com/file/d/1-YnOxKJAVLYDCS6QY9y4D-G1jbR0AK75/view",
   },
   {
     title: "Fundamentals of Digital Marketing",
-    cardImage: "assets/images/education-page/google.png",
+    cardImage: "assets/images/education-page/google.jpg",
     moocLink: "https://drive.google.com/file/d/1RrGqR53gOtKVtXbqx7eR1FJv5YZXOzuU/view",
   },
 ];
