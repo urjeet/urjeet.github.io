@@ -176,10 +176,10 @@ document.addEventListener("DOMContentLoaded", showCards1);
 const timeline = document.querySelector(".timeline");
 const timelinesection = [
   {
-    heading: "Massachusetts Institute of Technology",
+    heading: "University of Pittsburgh",
     image: "./assets/images/education-page/timeline-1.svg",
-    subheading: "Bachelors of Science, Computer Science & Engineering, (2020-2024)",
-    description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
+    subheading: "Bachelors of Science, Computer Science, (2019-2022)",
+    description: "<li>Undergraduate Researcher</li><li>Dean's List x3</li>",
   },
 
   {
