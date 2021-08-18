@@ -6,18 +6,18 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Computational Biology Research Intern",
-    cardImage: "assets/images/experience-page/tecbio.png",
-    place: "NSF REU - University of Pittsburgh School of Medicine",
-    time: "(May 2021 - July 2021)",
-    desp: "<li>Funded by the National Science Foundation, I worked with Dr. Ian Sigal and Ph.D. student Po-Yi Lee at their Ocular Biomechanics Lab to develop a virtual reality platform for visualization and simulation of ocular structures.</li><li>The virtual reality software was implemented using the Unity game engine and included high-level features that focused on understanding the hemodynamic properties of the Lamina Cribrosa Vasculature. The research motives were to better grasp the causes of glaucoma.</li>",
-  },
-  {
     title: "Research Assistant",
     cardImage: "assets/images/experience-page/lifelab.png",
     place: "LIFE Lab",
     time: "(August 2020 - Present)",
     desp: "<li>Under Dr. Jamie Hanson, I performed quality assurance on the codebase of online experiments using PsychoPy, PsychoJS, and jsPsych.</li><li>Currently, I am implementing Deep Neural Networks using PyTorch, TensorFlow, and Keras to predict “brain age” through MRI data.</li>",
+  },
+  {
+    title: "Computational Biology Research Intern",
+    cardImage: "assets/images/experience-page/tecbio.png",
+    place: "NSF REU - University of Pittsburgh School of Medicine",
+    time: "(May 2021 - July 2021)",
+    desp: "<li>Funded by the National Science Foundation, I worked with Dr. Ian Sigal and Ph.D. student Po-Yi Lee at their Ocular Biomechanics Lab to develop a virtual reality platform for visualization and simulation of ocular structures.</li><li>The virtual reality software was implemented using the Unity game engine and included high-level features that focused on understanding the hemodynamic properties of the Lamina Cribrosa Vasculature. The research motives were to better grasp the causes of glaucoma.</li>",
   },
   {
     title: "Resident Assistant",
@@ -94,6 +94,12 @@ const volunteershipcards = [
     cardImage: "assets/images/experience-page/pittcsc.png",
     description:
       "I am part of a community of computer science enthusiasts who work to better each other.",
+  },
+  {
+    title: "Software Developer\nCode for Philly",
+    cardImage: "assets/images/experience-page/code4philly.png",
+    description:
+      "I contributed to a civic coding group by continuing the front-end development of the PHLASK Project which is focused on locating crucial resources in Philadelphia.",
   },
   {
     title: "Vice Chair of Academic Affairs",
