@@ -78,10 +78,10 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "Editor/Podcaster\nThe Helyx Initiative",
+    title: "Editor/Podcaster",
     cardImage: "assets/images/experience-page/helyx.png",
     description:
-      "I serve as an editor for blogs on topics of Computational Biology and supplementally speak for the organization's podcast which is hosted on Spotify.",
+      "For the volunteer group, The Helyx Initiative, I serve as an editor for blogs on topics of Computational Biology and supplementally speak for the organization's podcast which is hosted on Spotify.",
   },
   {
     title: "Social and Outreach Chair",
@@ -96,16 +96,16 @@ const volunteershipcards = [
       "I am part of a community of computer science enthusiasts who work to better each other.",
   },
   {
-    title: "Software Developer\nCode for Philly",
+    title: "Software Developer",
     cardImage: "assets/images/experience-page/code4philly.png",
     description:
-      "I contributed to a civic coding group by continuing the front-end development of the PHLASK Project which is focused on locating crucial resources in Philadelphia.",
+      "I contributed to the civic coding group, Code for Philly, by continuing the front-end development of the PHLASK Project which is focused on locating crucial resources in Philadelphia.",
   },
   {
     title: "Vice Chair of Academic Affairs",
     cardImage: "assets/images/experience-page/sgb.png",
     description:
-      "I represented the School of Computing and Information by establishing a robust foundation for an extensive system of resources.",
+      "I represented the School of Computing and Information in Student Government by establishing a robust foundation for an extensive system of resources.",
   },
 ];
 
