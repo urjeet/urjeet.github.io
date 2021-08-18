@@ -20,6 +20,13 @@ const exp = [
     desp: "<li>Under Dr. Jamie Hanson, I performed quality assurance on the codebase of online experiments using PsychoPy, PsychoJS, and jsPsych.</li><li>Currently, I am implementing Deep Neural Networks using PyTorch, TensorFlow, and Keras to predict “brain age” through MRI data.</li>",
   },
   {
+    title: "Resident Assistant",
+    cardImage: "assets/images/experience-page/holland.jpg",
+    place: "LIFE Lab",
+    time: "(July 2020 - May 2021)",
+    desp: "<li>This role required a comprehensive vetting process and proper training.</li><li>I collaborated with 17 other RAs to build a community that bolsters learning and maturity for about 290 residents.</li><li>This was reflected through programming, administrative tasks, and directly securing the well-being of residents.</li>",
+  },
+  {
     title: "Software Engineering Virtual Experience",
     cardImage: "assets/images/experience-page/jpmorgan.jpg",
     place: "JPMorgan & Chase Co.",
@@ -68,12 +75,6 @@ const volunteershipcards = [
     cardImage: "assets/images/experience-page/helyx.png",
     description:
       "I serve as an editor for blogs on topics of Computational Biology and supplementally speak for the organization's podcast which is hosted on Spotify.",
-  },
-  {
-    title: "Resident Assistant\nPitt ResLife",
-    cardImage: "assets/images/experience-page/pittreslife.png",
-    description:
-      "I complete administrative tasks such as maintenance requests and incident reports. I also plan programs that bolster learning and maturity in the community.",
   },
   {
     title: "Social and Outreach Chair",
