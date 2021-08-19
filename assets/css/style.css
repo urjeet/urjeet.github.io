@@ -413,6 +413,7 @@ color: #ffffff !important;
 
     li.nav-item {
         text-align: center;
+        font-size: 15px;
     }
     a.nav-link {
         padding: 6px 21px !important;
