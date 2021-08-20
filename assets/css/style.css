@@ -412,11 +412,11 @@ color: #ffffff !important;
     }
 
     li.nav-item {
-        text-align: center;
-        font-size: 15px;
+        text-align: cent
     }
     a.nav-link {
         padding: 6px 21px !important;
+        font-size: 15px;
     }
 
     /* Hide svg on laptop screens to prevent overlap between sidebar and navbar */
