@@ -112,7 +112,7 @@ const volunteershipcards = [
     title: "Human Voicebank",
     cardImage: "assets/images/experience-page/vocalid.png",
     description:
-      "I contributed my voice to the 'Human Voicebank' which combines with the vocalizations of those living with speech impairments, allowing them to be heard. My recordings advanced the science of expressing voices.",
+      "I contributed my voice to the 'Human Voicebank' which combines with the vocalizations of those living with speech impairments, allowing them to be heard. My recordings advanced the science of expressive voices.",
   },
   {
     title: "Vice Chair of Academic Affairs",
