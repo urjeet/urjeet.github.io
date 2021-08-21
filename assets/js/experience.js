@@ -109,6 +109,12 @@ const volunteershipcards = [
       "I contributed to the civic coding group, Code for Philly, by continuing the front-end development of the PHLASK Project which is focused on locating crucial resources in Philadelphia.",
   },
   {
+    title: "Human Voicebank",
+    cardImage: "assets/images/experience-page/vocalid.png",
+    description:
+      "I contributed my voice to the 'Human Voicebank' which combines with the vocalizations of those living with speech impairments, allowing them to be heard.",
+  },
+  {
     title: "Vice Chair of Academic Affairs",
     cardImage: "assets/images/experience-page/sgb.png",
     description:
