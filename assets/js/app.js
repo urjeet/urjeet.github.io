@@ -258,8 +258,9 @@ let footer = $(`
     </svg>
     </a>
 
-
-    
+    <p>
+    <span>Made with <i class="fa fa-heart pulse"></i> by Urjeet Deshmukh</span>
+    </p>
     </div>
     </div>
 </footer>
