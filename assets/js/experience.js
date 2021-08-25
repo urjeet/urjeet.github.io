@@ -6,6 +6,13 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Research Assistant",
+    cardImage: "assets/images/experience-page/ocularbiomechanics.png",
+    place: "Laboratory of Ocular Biomechanics",
+    time: "(August 2021 - Present)",
+    desp: "Advisor: Dr. Ian Sigal",
+  },
+  {
     title: "Community Assistant",
     cardImage: "assets/images/experience-page/bridge.jpg",
     place: "The Bridge on Forbes Apartments",
