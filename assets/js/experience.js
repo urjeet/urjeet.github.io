@@ -144,7 +144,7 @@ document.addEventListener("DOMContentLoaded", showCards);
 
 // Hackathon Section
 
-/*
+
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
@@ -263,4 +263,4 @@ const showCards3 = () => {
   hackathonsection.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", showCards3);
-*/
+
