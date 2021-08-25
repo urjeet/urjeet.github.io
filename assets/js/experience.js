@@ -240,7 +240,7 @@ const mentor = [
   
 
 ];
-*/
+
 
 const showCards3 = () => {
   let output = "";
@@ -263,4 +263,4 @@ const showCards3 = () => {
   hackathonsection.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", showCards3);
-
+*/
