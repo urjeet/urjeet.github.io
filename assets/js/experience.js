@@ -14,7 +14,7 @@ const exp = [
   },
   {
     title: "Research Assistant",
-    cardImage: "assets/images/experience-page/lifelab.png",
+    cardImage: "assets/images/experience-page/pittsci.jpg",
     place: "Alikhani Lab",
     time: "(February 2021 - Present)",
     desp: "Advisor: Dr. Malihe Alikhani",
