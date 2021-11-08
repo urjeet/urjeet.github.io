@@ -13,6 +13,13 @@ const exp = [
     desp: "Advisor: Dr. Ian Sigal",
   },
   {
+    title: "Research Assistant",
+    cardImage: "assets/images/experience-page/lifelab.png",
+    place: "Alikhani Lab",
+    time: "(February 2021 - Present)",
+    desp: "Advisor: Dr. Malihe Alikhani",
+  },
+  {
     title: "Community Assistant",
     cardImage: "assets/images/experience-page/bridge.jpg",
     place: "The Bridge on Forbes Apartments",
@@ -23,7 +30,7 @@ const exp = [
     title: "Research Assistant",
     cardImage: "assets/images/experience-page/lifelab.png",
     place: "LIFE Lab",
-    time: "(August 2020 - Present)",
+    time: "(August 2020 - August 2021)",
     desp: "<li>Under Dr. Jamie Hanson, I performed quality assurance on the codebase of online experiments using PsychoPy, PsychoJS, and jsPsych.</li><li>Currently, I am implementing Deep Neural Networks using PyTorch, TensorFlow, and Keras to predict “brain age” through MRI data.</li>",
   },
   {
